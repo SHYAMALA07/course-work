@@ -13,6 +13,6 @@
 ![](../assets/images/deployment-center.png)
 
 - Fill the details of your git repo and hit save.
-- Under "Logs" tab you will find the automatic deployment settings.
+- Under "Logs" tab you will find the deployment run logs.
   
   ![](../assets/images/logs.png)
